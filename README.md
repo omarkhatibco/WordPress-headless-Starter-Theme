@@ -60,7 +60,7 @@ wp-content/themes/your-theme
 Carbon Fields are deactivated by default, since not eveyone use it.
 if you want to activate it head to `function.php` and edit this line.
 
-```php diff
+```diff
 // (Optional) Register Carbon Fields.
 - // require_once  'app/carbon-fields.php';
 + require_once  'app/carbon-fields.php';
