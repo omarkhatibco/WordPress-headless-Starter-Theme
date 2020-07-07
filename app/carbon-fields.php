@@ -33,7 +33,7 @@ add_action('carbon_fields_register_fields', 'app_bootstrap_carbon_fields_registe
 // Filter Google Maps API key for Carbon Fields.
 function app_filter_carbon_fields_google_maps_api_key()
 {
-  return carbon_get_theme_option('gingco_google_maps_api_key');
+  return carbon_get_theme_option('crb_google_maps_api_key');
 }
 
 add_filter('carbon_fields_map_field_api_key', 'app_filter_carbon_fields_google_maps_api_key');
