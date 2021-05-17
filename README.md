@@ -2,7 +2,7 @@
 
 ![WordPress Headless Starter Theme](screenshot.png)
 
-This is lightweight theme is desiged for using WordPress as a headless, so you can use what every you need in the frontEnd.
+This lightweight theme is designed for using WordPress as  headless cms, it can be used with any cms framework.
 
 ## Installation
 
